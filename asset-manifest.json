@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gallary/static/css/main.e6c13ad2.css",
+    "main.js": "/gallary/static/js/main.484c8c65.js",
+    "static/js/787.ae9b85a4.chunk.js": "/gallary/static/js/787.ae9b85a4.chunk.js",
+    "index.html": "/gallary/index.html",
+    "main.e6c13ad2.css.map": "/gallary/static/css/main.e6c13ad2.css.map",
+    "main.484c8c65.js.map": "/gallary/static/js/main.484c8c65.js.map",
+    "787.ae9b85a4.chunk.js.map": "/gallary/static/js/787.ae9b85a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.484c8c65.js"
+  ]
+}
